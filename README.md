@@ -1,5 +1,4 @@
 # Personal Project Portfolio
----
 ## Introduction
 Welcome to my project showcase! As a devoted CS graduate student specializing in software engineering, cloud computing, and computer graphics. I've assembled this repository to highlight my journey and competencies. Herein, you'll discover a diverse set of projects, each representing unique hurdles and innovations, and adhering to academic integrity by omitting code exposure.
 
@@ -12,7 +11,6 @@ Enjoy your exploration, and thank you for your interest in my work!
 **Note to Recruiters and Interviewers:**
 For deeper insights into the technical layers of my projects, I welcome the opportunity to reveal code and intricate details in a one-on-one interview setting.
 
----
 ## Project List
 - **Software Engineering**
     - [Full Stack Web Application HikingUSA in HTML/CSS/JavaScript with Node.js, Express, MongoDB, and AWS S3](https://github.com/RavenLou/HikingUSA)
@@ -27,9 +25,8 @@ For deeper insights into the technical layers of my projects, I welcome the oppo
     - 3D Surface Mesh Manipulation with PyVista
     - Visualizating 2D Flow using Line Integral Convolution
 
----
 ## Software Engineering
----
+
 ## Cloud Computing
----
+
 ## Computer Graphics
