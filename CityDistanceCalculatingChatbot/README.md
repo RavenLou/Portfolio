@@ -1,5 +1,6 @@
 # City Distance Calculating Chatbot
 
+![Process](Process.jpeg)
 ## Table of Contents
 1. [Overview](#overview)
 2. [Requirements](#requirements)

@@ -14,19 +14,12 @@ For deeper insights into the technical layers of my projects, I welcome the oppo
 ## Project List
 - **Software Engineering**
     - [Full Stack Web Application HikingUSA in HTML/CSS/JavaScript with Node.js, Express, MongoDB, and AWS S3](https://github.com/RavenLou/HikingUSA)
-    - Android Mobile Weather App in Java
+    - [Android Mobile Weather App in Java](AndroidWeatherApp)
 - **Cloud Computing**
-    - City Distance Calculating Chatbot with AWS Lambda, Lex, API Gateway, and DynamoDB
-    - AWS Storage Service with RDS, Elasticache, and S3
-    - Deep Learning Web Service with AWS EKS and Docker
+    - [City Distance Calculating Chatbot with AWS Lambda, Lex, API Gateway, and DynamoDB](CityDistanceCalculatingChatbot)
+    - [AWS Storage Service with RDS, Elasticache, and S3](AWSStorageService)
+    - [Data Analytics & Visualization with AWS Glue, Athena, and Tableau](DataAnalyticsVisualization)
+    - [Machine Learning Web Service with AWS EKS and Docker](MLWebService)
 - **Computer Graphics**
     - [3D Animation Generator in JavaScript with WebGL](3DAnimationProject)
-    - 2D Contour Line Visualization using Marching Squares
-    - 3D Surface Mesh Manipulation with PyVista
-    - Visualizating 2D Flow using Line Integral Convolution
-
-## Software Engineering
-
-## Cloud Computing
-
-## Computer Graphics
+    - [Scientific Visualization Projects](ScientificVisualization)
